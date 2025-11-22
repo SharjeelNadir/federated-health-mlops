@@ -200,22 +200,8 @@ Pipeline does:
 Your GitHub Actions will show:
 All green ✔ (build successful)
 
-📸 Screenshots (Add in your report)
 
-You must paste the following screenshots:
 
-📌 Server running (3 rounds)
-📌 Client Node 1 logs
-📌 Client Node 2 logs
-📌 Client Node 3 logs
-📌 global_model.pth saved
-📌 Swagger UI working
-📌 Citizen dashboard UI
-📌 Admin dashboard graphs
-📌 Docker build success
-📌 CI pipeline green
-
-(Add screenshot filenames under a /screenshots folder if needed.)
 
 🧪 Model Evaluation Summary
 
@@ -235,19 +221,8 @@ Node 2: 0.26 → 0.17 → 0.13
 
 Node 3: 0.45 → 0.29 → 0.19
 
-(Already shown in dashboards.)
 
-📌 Future Work
 
-Replace dummy global evaluation with real validation dataset
-
-Add data ingestion pipeline (Kafka / MQTT)
-
-Deploy API + dashboards on cloud (Render / Railway / EC2 / K8s)
-
-Add drift detection module
-
-Add auto-retraining CI/CD pipeline
 
 🏁 Conclusion
 
